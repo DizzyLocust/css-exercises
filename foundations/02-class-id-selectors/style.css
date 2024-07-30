@@ -1,0 +1,33 @@
+
+/* odd elements */
+
+.odd {
+
+    background-color: rgb(255, 119, 201);
+    font-family: "verdana", "Dejavu sans", sans-serif ;
+    
+    
+}
+
+/* second element */
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+/* third element */
+
+.odd.third {
+    
+    font-size: 24px;
+}
+
+/* fourth element */
+
+#fourth {
+
+    background-color: rgb(91, 231, 91);
+    font-size: 24px;
+    font-weight: bold;
+}
